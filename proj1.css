@@ -1,0 +1,105 @@
+body{ 
+   font-family: Arial, sans-serif;
+}
+.navbar p{
+    float: left;
+}
+.hero{
+    background-color: #64a0d4;
+    color: white;
+    padding: 60px 0px;
+}
+.hero img{
+    max-width: 100%;
+    height: auto;
+}
+.section-title{
+    font-weight: bold;
+    text-align: center;
+}
+.underline{
+    width:300px;
+    height: 3px;
+    background: white;
+    border: 0;
+    opacity: 1;
+    margin: 8px auto 20px;
+    border-radius: 2px;
+    margin-left: 0;
+}
+.line1{
+    width:80px;
+    height: 2px;
+    background: white;
+    border: 0;
+    opacity: 1;
+    margin: 10px auto 24px;
+    border-radius: 2px;
+}
+.short-line{
+    width:80px;
+    height: 3px;
+    background: #c7c7c7;
+    border: 0;
+    opacity: 1;
+    margin: 10px auto 24px;
+    border-radius: 2px;
+}
+.galine{
+    width:80px;
+    height: 3px;
+    background: #cfcfcf;
+    border: 0;
+    opacity: 1;
+    margin: 5px auto 24px;
+    border-radius: 1px;
+}
+.feature-icon{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.visit{
+    background-color: #2e2e2e;
+    color: white;
+    padding: 40px 0;
+}
+.quote-section{
+    background-color: #2e2e2e;
+    color: white;
+    padding: 40px 0;
+    font-style: italic;
+}
+.image-fluid{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.gallery-row{
+    margin: 0px 20px;
+    margin-bottom: 15px;
+}
+.social-icons{
+    font-size: 24px;
+    color: #cfcfcf;
+    margin: 0 10px;
+}
+.social-icons:hover{
+    color: #007bff;
+}
+footer{
+    background-color: #ffffff;
+    color: #bbb;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 14px;
+}
+.shape{
+    height: 8px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid #64a0d4;
+    position: absolute;
+    left: 48%;
+    bottom: -400px;
+}
